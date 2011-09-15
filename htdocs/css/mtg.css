@@ -1,3 +1,7 @@
 .card {
 	position: absolute;
+
+	box-shadow: 5px 6px 15px rgba(0, 0, 0, 0.5);
+
+	-webkit-transition: -webkit-transform 0.25s ease-in-out;
 }
